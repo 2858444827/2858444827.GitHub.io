@@ -4,7 +4,7 @@
     </head>
     <body>
         <h1>
-            Segway's in the USA 
+            Mm & Zz's Happy life 
         </h1>
         <p>
             Documenting my trip around the USA on my own Segway!
