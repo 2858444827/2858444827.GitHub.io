@@ -18,8 +18,8 @@
             and zhuang's life. Record our life, and leave
             affectings. Someday when we are old, we can view 
             this website, and review our past days, that must
-            be really interesting. The most thing is, I love 
-            you, Meimei.
+            be really interesting. The most important thing is,
+            I love you, Meimei.
         </p>
         <h2>
             Our first photo together
