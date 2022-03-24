@@ -1,37 +1,55 @@
-## Welcome to GitHub Pages
-
-You can use the [editor on GitHub](https://github.com/2858444827/indiv_web_learning/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
-
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
-
-### Markdown
-
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
-
-```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [Basic writing and formatting syntax](https://docs.github.com/en/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/2858444827/indiv_web_learning/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
+<html>
+    <head>
+        <title>Tony's Jounal Log around the USA</title>
+    </head>
+    <body>
+        <h1>
+            Segway's in the USA 
+        </h1>
+        <p>
+            Documenting my trip around the USA on my own Segway!
+        </p>
+        <h2>
+            August 20, 2012
+        </h2>
+        <img src="images/segway1.jpg">
+        <p>
+            Well I made it 1200 miles already, and I passed 
+            through some interesting places on the way:
+            <ol>
+                <li>Walla Walla, WA, </li>
+                <li>Magic City, ID,</li> 
+                <li>Bountiful, UT, </li>
+                <li>Last Chance, CO,</li> 
+                <li>Why, AZ</li> 
+                <li>the Truth or Consequences,NM.</li>
+            </ol>    
+        </p>
+        <h2>
+            July 14, 2012
+        </h2>
+        <p>
+            I saw some Burma Shave style signs on the side of the 
+            road today:</p>
+            <blockquote>
+            "Passing cars,<br>
+            When you can't see, <br>
+            May get you,<br>
+            A glimpse, Of etemity."</blockquote>
+            <p>
+            I definitely won't be passsing any
+            cars.
+            </p>
+        </p>
+        <h2>
+            June 2,2012
+        </h2>
+        <img src="images/segway2.jpg">
+        <p>
+            My first day of trip! I can't believe finally got everything
+            packed and ready to go.Because I'am on a Segway.I wasn't able
+            to bring a whole lot with me.Just as Lao Tzu would have said,
+            <q>A journey of a thousand miles begins with one Segway.</q>
+        </p>
+    </body>
+</html>
