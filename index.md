@@ -1,6 +1,6 @@
 <html>
     <head>
-        <title>Tony's Jounal Log around the USA</title>
+        <title>Mm & Zz's Happy life</title>
     </head>
     <body>
         <h1>
