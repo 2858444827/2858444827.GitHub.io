@@ -1,5 +1,7 @@
+<!doctype html>
 <html>
     <head>
+        <meta charset="utf-8" />
         <title>
             Meimei and Zhuang's Happy Life
         </title>
@@ -18,8 +20,8 @@
             and zhuang's life. Record our life, and leave
             affectings. Someday when we are old, we can view 
             this website, and review our past days, that must
-            be really interesting. The most important thing is,
-            I love you, Meimei.
+            be really interesting. The most thing is, I love 
+            you, Meimei.
         </p>
         <h2>
             Our first photo together
@@ -38,6 +40,22 @@
             This is our first photo shoot. It was the National Day.
             I was embarrassed to get too 
             close to you. I looked goofy then, but Meimei always looked beautiful.
+        </p>
+        <h2>
+            Our Chirsmas Gifts
+        </h2>
+        <p>
+            <img src="thumbnails/tree1.png" title="Chisrtmas tree drew by Meimei">
+            <img src="thumbnails/tree2.png" title="Chisrtmas tree drew by Zhuang">
+        </p>
+        <p>
+            <a href="Chirstmas Gift/To my beloved Mm.html"
+            title="3D music album to Meimei">
+            <img src="thumbnails/album cover.jpg.png"></a>
+        </p>
+        <p>
+            On Chirsmas, we drew Chirsmas trees for each other. 
+            And there is also a 3D music album to Meimei.
         </p>
     </body>
 </html>
