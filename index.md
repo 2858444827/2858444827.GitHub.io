@@ -1,4 +1,3 @@
-<!doctype html>
 <html>
     <head>
         <meta charset="utf-8" />
@@ -13,7 +12,7 @@
     </head>
     <body>
         <h1>
-            Welcome to Meimei and Zhuang's life
+            梅梅是大笨蛋！
         </h1>
         <p>
             This website is build to document Meimei
